@@ -1,4 +1,4 @@
-# CS4641-project
+# Social Media Bot Detection
 
 Introduction
 --------------------------------
